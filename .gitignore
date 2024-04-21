@@ -1,0 +1,47 @@
+# Python related
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+*.pyz
+*.pyzw
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Development environment related (like PyCharm)
+*.iml
+.idea/
+.vscode/
+*.pyproj
+*.sln
+*.suo
+*.user
+
+# Test related
+.tox/
+.pytest_cache/
+.pytest-order/
+
+# Docker related
+*.env
+Dockerfile
+.dockerignore
+docker-compose.yml
+
+# Logs
+*.log
+
+# OS related
+.DS_Store
+.Thumbs.db
+
+# Temp, backup and other not required files
+*~
+.*~
+.*.swp
+*.bak
+*.tmp
+*.1
+*.rej
