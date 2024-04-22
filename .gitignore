@@ -24,11 +24,6 @@ build/
 .pytest_cache/
 .pytest-order/
 
-# Docker related
-*.env
-Dockerfile
-.dockerignore
-docker-compose.yml
 
 # Logs
 *.log
